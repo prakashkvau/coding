@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<coding>",
+            "request": "launch",
+            "mainClass": "algorithms.BinarySearch",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<coding>",
+            "request": "launch",
+            "mainClass": "algorithms.BubbleSort",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionSort<coding>",
+            "request": "launch",
+            "mainClass": "algorithms.InsertionSort",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<coding>",
+            "request": "launch",
+            "mainClass": "algorithms.MergeSort",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickSort<coding>",
+            "request": "launch",
+            "mainClass": "algorithms.QuickSort",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSort<coding>",
+            "request": "launch",
+            "mainClass": "algorithms.SelectionSort",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxMinHeap<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MaxMinHeap",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyArray<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyArray",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyBinaryTree<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyBinaryTree",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyGenericTree<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyGenericTree",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyLinkedList<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyLinkedList",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyQueue<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyQueue",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyStack<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyStack",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyStackArray<coding>",
+            "request": "launch",
+            "mainClass": "datastructures.MyStackArray",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayMaxConsecutiveSum<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.ArrayMaxConsecutiveSum",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BuildPalindrome<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.BuildPalindrome",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ElectionWinner<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.ElectionWinner",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GamblerFallacy<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.GamblerFallacy",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IpV4Check<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.IpV4Check",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsBeautifulString<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.IsBeautifulString",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsMAC48Address<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.IsMAC48Address",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LineEncoding<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.LineEncoding",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindromicSubstring<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.LongestPalindromicSubstring",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeKSortedLinkedLists<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.MergeKSortedLinkedLists",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeTwoSortedLinkedLists<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.MergeTwoSortedLinkedLists",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem1<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem1",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem11<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem11",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem15<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem15",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem2<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem2",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem238<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem238",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem31<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem31",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem33<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem33",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem509<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem509",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem56<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem56",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem561<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem561",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem832<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem832",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem905<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem905",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem922<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem922",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem977<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.Problem977",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringConcat<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.StringConcat",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrappingRainWater<coding>",
+            "request": "launch",
+            "mainClass": "leetcode.TrappingRainWater",
+            "projectName": "coding"
+        }
+    ]
+}
