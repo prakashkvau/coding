@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NumberOfIslandsBfs",
+            "request": "launch",
+            "mainClass": "leetcode.NumberOfIslandsBfs",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"

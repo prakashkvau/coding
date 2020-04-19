@@ -6,6 +6,7 @@ class IsBeautifulString {
 	static boolean isBeautifulString(String inputString) {
     Map<Integer, Integer> m = new HashMap();
     
+    
     for (int i =0; i < inputString.length(); i++) {
         int save = 0;
         Integer currentChar = Integer.valueOf(inputString.charAt(i));
