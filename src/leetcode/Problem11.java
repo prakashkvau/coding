@@ -4,12 +4,8 @@ package leetcode;
 
 class Problem11 {
     public int maxArea(int[] height) {
-        int lmax = height[0];
-        int marea = 0;
         for (int i=1; i< height.length;i++){
         }
-        
-
         return 0;
     }
 

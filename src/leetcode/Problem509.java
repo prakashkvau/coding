@@ -1,5 +1,4 @@
 package leetcode;
-import java.util.Arrays;
 
 /**
  * The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, 

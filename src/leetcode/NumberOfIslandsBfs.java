@@ -23,7 +23,6 @@ public class NumberOfIslandsBfs {
         if (grid.length == 0) {
             return 0;
         }
-        int[][] visit = new int[grid.length][grid[0].length];
 
         int count = 0;
         for (int i = 0; i < grid.length; i++) {

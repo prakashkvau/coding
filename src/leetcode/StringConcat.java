@@ -7,7 +7,7 @@ public class StringConcat {
 
     String[] addBorder(String[] picture) {
         String fill = "*";
-        List<String> s = new ArrayList();
+        List<String> s = new ArrayList<>();
         for (int i = 0; i < picture.length ; i++) {
             if (i==0 || i == picture.length -1 ) {
                 String temp = new String();

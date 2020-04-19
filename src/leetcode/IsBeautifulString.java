@@ -4,7 +4,7 @@ import java.util.*;
 
 class IsBeautifulString {
 	static boolean isBeautifulString(String inputString) {
-    Map<Integer, Integer> m = new HashMap();
+    Map<Integer, Integer> m = new HashMap<>();
     
     
     for (int i =0; i < inputString.length(); i++) {
