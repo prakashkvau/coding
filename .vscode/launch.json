@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PerfectSquares",
+            "request": "launch",
+            "mainClass": "leetcode.PerfectSquares",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NumberOfIslandsBfs",
             "request": "launch",
             "mainClass": "leetcode.NumberOfIslandsBfs",
