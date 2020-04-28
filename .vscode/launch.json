@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DailyTemperatues",
+            "request": "launch",
+            "mainClass": "leetcode.DailyTemperatues",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ValidParanthesis",
             "request": "launch",
             "mainClass": "leetcode.ValidParanthesis",
