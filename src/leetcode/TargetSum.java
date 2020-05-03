@@ -4,7 +4,7 @@ public class TargetSum {
     public int findTargetSumWays(int[] nums, int S) {
         int[][] dp = new int[nums.length][2001];
         dp[0][nums[0] + 1000] = 1;
-        dp[0][-nums[0] + 1000] = 1;
+        dp[0][-nums[0] + 1000] += 1;
 
         for (int i = 1; i < nums.length; i++) {
             for (int j = -1000; j <= 1000; j++) {
