@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TargetSum",
+            "request": "launch",
+            "mainClass": "leetcode.TargetSum",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ClonedGraphBFS",
             "request": "launch",
             "mainClass": "leetcode.ClonedGraphBFS",
