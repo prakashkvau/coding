@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Matrix01",
+            "request": "launch",
+            "mainClass": "leetcode.Matrix01",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DecodeString",
             "request": "launch",
             "mainClass": "leetcode.DecodeString",
