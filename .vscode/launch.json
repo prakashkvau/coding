@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DecodeString",
+            "request": "launch",
+            "mainClass": "leetcode.DecodeString",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NativeQueue",
             "request": "launch",
             "mainClass": "datastructures.NativeQueue",
