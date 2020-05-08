@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab99a7ff-8c0c-4139-975a-f5e13feb2b07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/CheckStraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/FirstBadOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/KeysAndRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/KeysAndRooms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/PerfectSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/PerfectSquares.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.KeysAndRooms">
+  <component name="RunManager" selected="Application.CheckStraightLine">
+    <configuration name="CheckStraightLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.CheckStraightLine" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstBadOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FirstBadOne" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KeysAndRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.KeysAndRooms" />
       <module name="coding" />
@@ -76,32 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfIslandsBfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.NumberOfIslandsBfs" />
-      <module name="coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfIslandsDfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.NumberOfIslandsDfs" />
-      <module name="coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.PerfectSquares" />
       <module name="coding" />
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckStraightLine" />
+        <item itemvalue="Application.FirstBadOne" />
         <item itemvalue="Application.KeysAndRooms" />
         <item itemvalue="Application.PerfectSquares" />
         <item itemvalue="Application.NativeQueue" />
-        <item itemvalue="Application.NumberOfIslandsBfs" />
-        <item itemvalue="Application.NumberOfIslandsDfs" />
       </list>
     </recent_temporary>
   </component>
@@ -136,29 +136,70 @@
       <option name="presentableId" value="Default" />
       <updated>1585307468765</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding minor changes">
+      <created>1588679495194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588679495195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding required changes" />
+    <MESSAGE value="Adding minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding minor changes" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="262" key="GridCell.Tab.0.bottom" timestamp="1588679462730">
+    <state x="473" y="110" key="CommitChangelistDialog2" timestamp="1588679494983">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1588679462730" />
-    <state width="1638" height="262" key="GridCell.Tab.0.center" timestamp="1588679462729">
+    <state x="473" y="110" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1588679494983" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom" timestamp="1588932237921">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1588679462729" />
-    <state width="1638" height="262" key="GridCell.Tab.0.left" timestamp="1588679462729">
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1588932237921" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center" timestamp="1588932237920">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1588679462729" />
-    <state width="1638" height="262" key="GridCell.Tab.0.right" timestamp="1588679462730">
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1588932237920" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left" timestamp="1588932237920">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1588679462730" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1588932237920" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right" timestamp="1588932237920">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1588932237920" />
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom" timestamp="1588932222851">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom/0.23.1680.975@0.23.1680.975" timestamp="1588932222851" />
+    <state width="1638" height="324" key="GridCell.Tab.1.center" timestamp="1588932222851">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.center/0.23.1680.975@0.23.1680.975" timestamp="1588932222851" />
+    <state width="1638" height="324" key="GridCell.Tab.1.left" timestamp="1588932222850">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.left/0.23.1680.975@0.23.1680.975" timestamp="1588932222850" />
+    <state width="1638" height="324" key="GridCell.Tab.1.right" timestamp="1588932222851">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.right/0.23.1680.975@0.23.1680.975" timestamp="1588932222851" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1588679063433">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1680.975@0.23.1680.975" timestamp="1588679063433" />
+    <state x="440" y="250" key="Vcs.Push.Dialog.v2" timestamp="1588679499950">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="440" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1588679499950" />
+    <state x="519" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1588930116792">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="519" y="343" key="com.intellij.ide.util.TipDialog/0.23.1680.975@0.23.1680.975" timestamp="1588930116792" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -167,6 +208,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/NumberOfIslandsDfs.java</url>
           <line>25</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/FirstBadOne.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
