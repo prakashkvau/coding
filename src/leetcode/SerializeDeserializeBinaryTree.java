@@ -5,17 +5,6 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class SerializeDeserializeBinaryTree {
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
-
     public String rserialize(TreeNode root, String str) {
         // Recursive serialization.
         if (root == null) {
