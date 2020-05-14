@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab99a7ff-8c0c-4139-975a-f5e13feb2b07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/BTInOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/BTPostOrderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/BTInOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/BTInOrderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589368595622</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="BT inOrder traversal.">
+      <created>1589417128438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589417128438</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,16 +198,18 @@
     <MESSAGE value="Reverse string" />
     <MESSAGE value="Single element in sorted array" />
     <MESSAGE value="Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Traversal" />
+    <MESSAGE value="BT inOrder traversal." />
+    <option name="LAST_COMMIT_MESSAGE" value="BT inOrder traversal." />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="221" key="#xdebugger.evaluate" timestamp="1589279523610">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="603" y="221" key="#xdebugger.evaluate/0.23.1680.975@0.23.1680.975" timestamp="1589279523610" />
-    <state x="473" y="110" key="CommitChangelistDialog2" timestamp="1589368595458">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state x="-1379" y="-451" key="CommitChangelistDialog2" timestamp="1589417128123">
+      <screen x="-1920" y="-545" width="1920" height="1057" />
     </state>
+    <state x="-1379" y="-451" key="CommitChangelistDialog2/-1920.-545.1920.1057/0.23.1680.975@-1920.-545.1920.1057" timestamp="1589417128123" />
     <state x="473" y="110" key="CommitChangelistDialog2/-1920.-545.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1589368595458" />
     <state x="473" y="110" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589283826150" />
     <state width="1638" height="324" key="GridCell.Tab.0.bottom" timestamp="1589378141304">
@@ -251,9 +261,10 @@
     </state>
     <state width="500" height="445" key="SwitcherDM/-1920.-545.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1589364990756" />
     <state width="500" height="445" key="SwitcherDM/0.23.1680.975@0.23.1680.975" timestamp="1588933204061" />
-    <state x="440" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589368597479">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state x="-1417" y="-299" key="Vcs.Push.Dialog.v2" timestamp="1589417131749">
+      <screen x="-1920" y="-545" width="1920" height="1057" />
     </state>
+    <state x="-1417" y="-299" key="Vcs.Push.Dialog.v2/-1920.-545.1920.1057/0.23.1680.975@-1920.-545.1920.1057" timestamp="1589417131749" />
     <state x="440" y="250" key="Vcs.Push.Dialog.v2/-1920.-545.1920.1057/0.23.1680.975@0.23.1680.975" timestamp="1589368597479" />
     <state x="440" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1589283828237" />
     <state x="519" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1589417089585">
