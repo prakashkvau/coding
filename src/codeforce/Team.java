@@ -18,7 +18,8 @@ public class Team {
       int ans1 = Integer.parseInt(ans[0]);
       int ans2 = Integer.parseInt(ans[1]);
       int ans3 = Integer.parseInt(ans[2]);
-      if ((ans1 + ans2 + ans3) >=2) {
+      if ((
+              ans1 + ans2 + ans3) >=2) {
         count++;
       }
     }
