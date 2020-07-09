@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HQ9Plus",
+            "request": "launch",
+            "mainClass": "HQ9Plus",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MagicalSticks",
+            "request": "launch",
+            "mainClass": "MagicalSticks",
+            "projectName": "coding"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IQTest",
             "request": "launch",
             "mainClass": "IQTest",
