@@ -7,6 +7,11 @@ public class MyArray {
     int[] d = new int[1];
     int size = 0;
 
+    public int[] sort() {
+        Arrays.sort(d);
+        return d;
+    }
+
     public void add(Integer input){
         if (size >= d.length) {
             increaseSize();
@@ -30,10 +35,12 @@ public class MyArray {
     public static void main(String[] args) {
         MyArray a = new MyArray();
         a.add(5);
-        a.add(10);
+        a.add(1);
         a.add(20);
-        a.add(10);
+        a.add(2);
         a.add(15);
+        a.print();
+        a.sort();
         a.print();
         System.out.println(a.size);
     }
